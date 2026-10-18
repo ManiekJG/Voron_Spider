@@ -105,3 +105,7 @@ is_system_service = False
 origin = https://github.com/Cartographer3D/cartographer_firmware.git
 primary_branch = main
 
+[spoolman]
+server = http://192.168.8.10:7912/
+sync_rate = 5
+
